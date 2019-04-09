@@ -1,0 +1,192 @@
+{
+  "id": 1141908371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.75057613,15.2112536814,145.75057613,15.2112536814",
+    "geom:latitude":15.211254,
+    "geom:longitude":145.750576,
+    "iso:country":"MP",
+    "lbl:latitude":15.211254,
+    "lbl:longitude":145.750576,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:arm_x_preferred":[
+        "\u0540\u056b\u056c\u056c"
+    ],
+    "name:chi_x_preferred":[
+        "\u5361\u76ae\u6258\u5c14\u5e0c\u5c14"
+    ],
+    "name:dut_x_preferred":[
+        "Capital Hill"
+    ],
+    "name:eng_x_preferred":[
+        "Capitol Hill"
+    ],
+    "name:fry_x_preferred":[
+        "Saipan"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e7\u05e4\u05d9\u05d8\u05dc \u05d4\u05d9\u05dc"
+    ],
+    "name:ind_x_preferred":[
+        "Capitol Hill"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ad\u30e3\u30d4\u30c8\u30eb\u30fb\u30d2\u30eb"
+    ],
+    "name:kor_x_preferred":[
+        "\uce90\ud53c\ud2c0\ud790"
+    ],
+    "name:oci_x_preferred":[
+        "Capital Hill"
+    ],
+    "name:pol_x_preferred":[
+        "Capital Hill"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u043f\u0438\u0442\u043e\u043b\u0438\u0439\u0441\u043a\u0438\u0439 \u0445\u043e\u043b\u043c"
+    ],
+    "name:sco_x_preferred":[
+        "Capitol Hill"
+    ],
+    "ne:ADM0CAP":0.0,
+    "ne:ADM0NAME":"Northern Mariana Islands",
+    "ne:ADM0_A3":"MNP",
+    "ne:ADM1NAME":null,
+    "ne:ADMIN1_COD":0,
+    "ne:CAPALT":0,
+    "ne:CAPIN":null,
+    "ne:CHANGED":4,
+    "ne:CHECKME":3,
+    "ne:CITYALT":null,
+    "ne:COMPARE":0,
+    "ne:DIFFASCII":0,
+    "ne:DIFFNOTE":"Changed feature class. Changed scale rank.",
+    "ne:ELEVATION":208.0,
+    "ne:FEATURECLA":"Admin-1 capital",
+    "ne:FEATURE_CL":"P",
+    "ne:FEATURE_CO":"PPL",
+    "ne:GEONAMEID":4041170,
+    "ne:GEONAMESNO":"GeoNames spatial join with similar names only.",
+    "ne:GN_ASCII":"Capital Hill",
+    "ne:GN_POP":1542,
+    "ne:GTOPO30":0.0,
+    "ne:ISO_A2":"MP",
+    "ne:LABELRANK":0,
+    "ne:LATITUDE":15.211254,
+    "ne:LONGITUDE":145.750576,
+    "ne:LS_MATCH":1,
+    "ne:LS_NAME":"Capitol Hill",
+    "ne:MAX_AREAKM":33.0,
+    "ne:MAX_AREAMI":13.0,
+    "ne:MAX_BBXMAX":145.766667,
+    "ne:MAX_BBXMIN":145.691667,
+    "ne:MAX_BBYMAX":15.233333,
+    "ne:MAX_BBYMIN":15.116667,
+    "ne:MAX_NATSCA":10.0,
+    "ne:MAX_PERKM":60.0,
+    "ne:MAX_PERMI":37.0,
+    "ne:MAX_POP10":62711,
+    "ne:MAX_POP20":0,
+    "ne:MAX_POP300":0,
+    "ne:MAX_POP310":0,
+    "ne:MAX_POP50":0,
+    "ne:MEAN_BBXC":145.723333,
+    "ne:MEAN_BBYC":15.168542,
+    "ne:MEGACITY":0,
+    "ne:MEGANAME":null,
+    "ne:MIN_AREAKM":33.0,
+    "ne:MIN_AREAMI":13.0,
+    "ne:MIN_BBXMAX":145.766667,
+    "ne:MIN_BBXMIN":145.691667,
+    "ne:MIN_BBYMAX":15.233333,
+    "ne:MIN_BBYMIN":15.116667,
+    "ne:MIN_PERKM":60.0,
+    "ne:MIN_PERMI":37.0,
+    "ne:NAME":"Capitol Hill",
+    "ne:NAMEALT":null,
+    "ne:NAMEASCII":"Capitol Hill",
+    "ne:NAMEDIFF":0,
+    "ne:NAMEPAR":null,
+    "ne:NATSCALE":20,
+    "ne:NOTE":null,
+    "ne:POP1950":0,
+    "ne:POP1955":0,
+    "ne:POP1960":0,
+    "ne:POP1965":0,
+    "ne:POP1970":0,
+    "ne:POP1975":0,
+    "ne:POP1980":0,
+    "ne:POP1985":0,
+    "ne:POP1990":0,
+    "ne:POP1995":0,
+    "ne:POP2000":0,
+    "ne:POP2005":0,
+    "ne:POP2010":0,
+    "ne:POP2015":0,
+    "ne:POP2020":0,
+    "ne:POP2025":0,
+    "ne:POP2050":0,
+    "ne:POP_MAX":2500,
+    "ne:POP_MIN":1028,
+    "ne:POP_OTHER":62711,
+    "ne:RANK_MAX":4,
+    "ne:RANK_MIN":3,
+    "ne:SCALERANK":7,
+    "ne:SOV0NAME":"United States",
+    "ne:SOV_A3":"USA",
+    "ne:TIMEZONE":"Pacific/Saipan",
+    "ne:UN_ADM0":null,
+    "ne:UN_FID":0,
+    "ne:UN_LAT":0.0,
+    "ne:UN_LONG":0.0,
+    "ne:WORLDCITY":0,
+    "ne:min_zoom":6.1,
+    "reversegeo:latitude":15.211254,
+    "reversegeo:longitude":145.750576,
+    "src:geom":"naturalearth",
+    "wof:belongsto":[
+        85632421,
+        85674803,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "wd:id":"Q3273113"
+    },
+    "wof:country":"MP",
+    "wof:created":1499130888,
+    "wof:geomhash":"9073c452779f8c29b3f000b103de8f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":1141908371,
+            "region_id":85674803
+        }
+    ],
+    "wof:id":1141908371,
+    "wof:lastmodified":1514485267,
+    "wof:name":"Capitol Hill",
+    "wof:parent_id":85674803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.75057613035347,
+    15.21125368139229,
+    145.75057613035347,
+    15.21125368139229
+],
+  "geometry": {"coordinates":[145.75057613035347,15.21125368139229],"type":"Point"}
+}

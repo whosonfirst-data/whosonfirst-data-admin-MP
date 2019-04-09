@@ -1,0 +1,69 @@
+{
+  "id": 890436025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.62437,14.96874,145.62437,14.96874",
+    "geom:latitude":14.96874,
+    "geom:longitude":145.62437,
+    "gn:country":"MP",
+    "gn:fcode":"PPLW",
+    "gn:pop":15000,
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:unk_x_variant":[
+        "Songhalum"
+    ],
+    "qs:name":"JP Tinian Town pre-WW2",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"6",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674801,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4041558,
+        "gp:id":29389667,
+        "qs:id":1047738
+    },
+    "wof:country":"MP",
+    "wof:created":1469052091,
+    "wof:geomhash":"a2fe0c95f027d2046a36e4f355b7d4a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":890436025,
+            "region_id":85674801
+        }
+    ],
+    "wof:id":890436025,
+    "wof:lastmodified":1509998378,
+    "wof:name":"JP Tinian Town pre-WW2",
+    "wof:parent_id":85674801,
+    "wof:placetype":"locality",
+    "wof:population":15000,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.62437,
+    14.96874,
+    145.62437,
+    14.96874
+],
+  "geometry": {"coordinates":[145.62437,14.96874],"type":"Point"}
+}

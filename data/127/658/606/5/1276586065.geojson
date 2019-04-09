@@ -1,0 +1,63 @@
+{
+  "id": 1276586065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.82453,17.5857,145.82453,17.5857",
+    "geom:latitude":17.5857,
+    "geom:longitude":145.82453,
+    "gn:admin1_code":"085",
+    "gn:admin2_code":"7733406.0",
+    "gn:asciiname":"former Songsong Village",
+    "gn:country_code":"MP",
+    "gn:dem":97,
+    "gn:elevation":"40.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7778923,
+    "gn:latitude":17.5857,
+    "gn:longitude":145.82453,
+    "gn:modification_date":"2011-05-01",
+    "gn:name":"former Songsong Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Saipan",
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778923
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"65c9dc655c237e548ff4511bedb54c14",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1276586065,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276586065,
+    "wof:lastmodified":1536938421,
+    "wof:name":"former Songsong Village",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.82453,
+    17.5857,
+    145.82453,
+    17.5857
+],
+  "geometry": {"coordinates":[145.82453000000001,17.5857],"type":"Point"}
+}

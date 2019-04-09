@@ -1,0 +1,72 @@
+{
+  "id": 1260116125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-07",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.72016,15.20511,145.72016,15.20511",
+    "geom:latitude":15.20511,
+    "geom:longitude":145.72016,
+    "gn:admin1_code":"110",
+    "gn:asciiname":"Garapan - JP Marianas Capital Village pre-WW2",
+    "gn:country_code":"MP",
+    "gn:dem":10,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLW",
+    "gn:geonameid":7838657,
+    "gn:latitude":15.20511,
+    "gn:longitude":145.72016,
+    "gn:modification_date":"2011-05-22",
+    "gn:name":"Garapan - JP Marianas Capital Village pre-WW2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Saipan",
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:und_x_variant":[
+        "Garapan - German Marianas Bezirksamt 1900s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674803,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7838657
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"8e8719a72a7b6a0b4a0a1b2d7468723e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":1260116125,
+            "region_id":85674803
+        }
+    ],
+    "wof:id":1260116125,
+    "wof:lastmodified":1537665742,
+    "wof:name":"Garapan - JP Marianas Capital Village pre-WW2",
+    "wof:parent_id":85674803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.72016000000005,
+    15.20511,
+    145.72016000000005,
+    15.20511
+],
+  "geometry": {"coordinates":[145.72016000000005,15.20511],"type":"Point"}
+}

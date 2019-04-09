@@ -1,0 +1,108 @@
+{
+  "id": 102536005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.242996,14.1743,145.242996,14.1743",
+    "geom:latitude":14.1743,
+    "geom:longitude":145.242996,
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:chi_x_preferred":[
+        "\u7f85\u5854\u570b\u969b\u6a5f\u5834"
+    ],
+    "name:eng_x_preferred":[
+        "Rota International Airport"
+    ],
+    "name:eng_x_variant":[
+        "ROP",
+        "PGRO"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Rota"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30bf\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ud0c0 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:per_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u0631\u0648\u062a\u0627"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Rota"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0442\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Aeropuerto Internacional de Rota"
+    ],
+    "name:swe_x_preferred":[
+        "Rota International Airport"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay Qu\u1ed1c t\u1ebf Rota"
+    ],
+    "oa:elevation_ft":"607",
+    "oa:type":"medium_airport",
+    "src:geom":"ourairports",
+    "src:geom_alt":[],
+    "wd:wordcount":356,
+    "woe:hierarchy":{
+        "country_id":23424788,
+        "planet_id":1
+    },
+    "wof:belongsto":[
+        85632421,
+        136253057,
+        85674797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":12523212,
+        "iata:code":"ROP",
+        "icao:code":"PGRO",
+        "oa:id":"5430",
+        "wd:id":"Q1187633",
+        "wk:page":"Rota_International_Airport"
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"a7181d896ecbd6985e4b3d7661da199e",
+    "wof:hierarchy":[
+        {
+            "campus_id":102536005,
+            "continent_id":-1,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":-1,
+            "neighbourhood_id":-1,
+            "region_id":85674797
+        }
+    ],
+    "wof:id":102536005,
+    "wof:lastmodified":1527637383,
+    "wof:name":"Rota International Airport",
+    "wof:parent_id":-1,
+    "wof:placetype":"campus",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    145.242996,
+    14.1743,
+    145.242996,
+    14.1743
+],
+  "geometry": {"coordinates":[145.24299600000001,14.1743],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1242608417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.2317,14.16608,145.2317,14.16608",
+    "geom:latitude":14.16608,
+    "geom:longitude":145.2317,
+    "gn:admin1_code":"100",
+    "gn:asciiname":"Sinapalo Village",
+    "gn:country_code":"MP",
+    "gn:dem":183,
+    "gn:elevation":"179.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4041576,
+    "gn:latitude":14.16608,
+    "gn:longitude":145.2317,
+    "gn:modification_date":"2011-05-25",
+    "gn:name":"Sinapalo Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Saipan",
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Shinaparu",
+        "Sinapalu"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674797,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4041576
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"14b5f1a2fbd96c7b2fd0882520977149",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":1242608417,
+            "region_id":85674797
+        }
+    ],
+    "wof:id":1242608417,
+    "wof:lastmodified":1537665742,
+    "wof:name":"Sinapalo Village",
+    "wof:parent_id":85674797,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.2317,
+    14.16608,
+    145.2317,
+    14.16608
+],
+  "geometry": {"coordinates":[145.23169999999999,14.16608],"type":"Point"}
+}

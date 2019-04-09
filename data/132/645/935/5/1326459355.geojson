@@ -1,0 +1,72 @@
+{
+  "id": 1326459355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.71682,15.19415,145.71682,15.19415",
+    "geom:latitude":15.19415,
+    "geom:longitude":145.71682,
+    "gn:admin1_code":"110",
+    "gn:asciiname":"Gualo Rai Village",
+    "gn:country_code":"MP",
+    "gn:dem":9,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7267932,
+    "gn:latitude":15.19415,
+    "gn:longitude":145.71682,
+    "gn:modification_date":"2011-05-22",
+    "gn:name":"Gualo Rai Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Saipan",
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Gualo Rai CDP"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674803,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7267932
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"79027485c16e499416f0b2239aacf7a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":1326459355,
+            "region_id":85674803
+        }
+    ],
+    "wof:id":1326459355,
+    "wof:lastmodified":1537665742,
+    "wof:name":"Gualo Rai Village",
+    "wof:parent_id":85674803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.71681999999996,
+    15.19415,
+    145.71681999999996,
+    15.19415
+],
+  "geometry": {"coordinates":[145.71681999999996,15.19415],"type":"Point"}
+}

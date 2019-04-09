@@ -1,0 +1,91 @@
+{
+  "id": 1126023357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.7545,15.21233,145.7545,15.21233",
+    "geom:latitude":15.21233,
+    "geom:longitude":145.7545,
+    "gn:gn_country":"MP",
+    "gn:gn_fcode":"PPLC",
+    "gn:gn_pop":48220,
+    "gn:population":48220,
+    "iso:country":"MP",
+    "lbl:latitude":15.21233,
+    "lbl:longitude":145.7545,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:deu_x_preferred":[
+        "Saipan"
+    ],
+    "name:eng_x_preferred":[
+        "Saipan"
+    ],
+    "name:fra_x_preferred":[
+        "Saipan"
+    ],
+    "name:kor_x_preferred":[
+        "\uc0ac\uc774\ud310"
+    ],
+    "qs_pg:aaroncc":"MP",
+    "qs_pg:gn_country":"MP",
+    "qs_pg:gn_fcode":"PPLC",
+    "qs_pg:gn_id":7828758,
+    "qs_pg:gn_pop":48220,
+    "qs_pg:name":"Saipan",
+    "qs_pg:photos_9r":0,
+    "qs_pg:photos_sr":0,
+    "qs_pg:pop_sr":7,
+    "qs_pg:qs_id":731155,
+    "qs_pg:qs_pg_placetype":"locality",
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674803,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7828758,
+        "qs_pg:id":731155
+    },
+    "wof:country":"MP",
+    "wof:created":1497300971,
+    "wof:geomhash":"b22af76cfb928c9a1b66e95bad7735f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":1126023357,
+            "region_id":85674803
+        }
+    ],
+    "wof:id":1126023357,
+    "wof:lastmodified":1509407363,
+    "wof:name":"Saipan",
+    "wof:parent_id":85674803,
+    "wof:placetype":"locality",
+    "wof:population":48220,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.7545,
+    15.21233,
+    145.7545,
+    15.21233
+],
+  "geometry": {"coordinates":[145.75450000000001,15.21233],"type":"Point"}
+}

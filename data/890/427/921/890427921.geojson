@@ -1,0 +1,69 @@
+{
+  "id": 890427921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.64914,14.96655,145.64914,14.96655",
+    "geom:latitude":14.96655,
+    "geom:longitude":145.64914,
+    "gn:country":"MP",
+    "gn:fcode":"PPLX",
+    "gn:pop":336,
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:rus_x_preferred":[
+        "\u041a\u0430\u0440\u043e\u043b\u0438\u043d\u0430\u0441 \u0445\u0430\u0439\u0442\u0441"
+    ],
+    "qs:name":"Carolinas Heights",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        85632421,
+        136253057,
+        85674801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7798575,
+        "qs:id":701235
+    },
+    "wof:country":"MP",
+    "wof:created":1469051726,
+    "wof:geomhash":"cba10b787ba607e4130c8f5c5869ffb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":-1,
+            "neighbourhood_id":890427921,
+            "region_id":85674801
+        }
+    ],
+    "wof:id":890427921,
+    "wof:lastmodified":1509998379,
+    "wof:name":"Carolinas Heights",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:population":336,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.64914,
+    14.96655,
+    145.64914,
+    14.96655
+],
+  "geometry": {"coordinates":[145.64913999999999,14.96655],"type":"Point"}
+}

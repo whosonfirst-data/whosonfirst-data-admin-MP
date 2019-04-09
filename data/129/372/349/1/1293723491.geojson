@@ -1,0 +1,74 @@
+{
+  "id": 1293723491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.75313,15.20825,145.75313,15.20825",
+    "geom:latitude":15.20825,
+    "geom:longitude":145.75313,
+    "gn:admin1_code":"110",
+    "gn:asciiname":"Capitol Hill Village",
+    "gn:country_code":"MP",
+    "gn:dem":205,
+    "gn:elevation":"210.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7828768,
+    "gn:latitude":15.20825,
+    "gn:longitude":145.75313,
+    "gn:modification_date":"2011-05-22",
+    "gn:name":"Capitol Hill Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Saipan",
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Capital Hill Village",
+        "Army Hill"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674803,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7828768,
+        "wk:page":"Capital_Hill%2C_Saipan"
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"2a58368bf653bcb317bbd1b004f45a1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":1293723491,
+            "region_id":85674803
+        }
+    ],
+    "wof:id":1293723491,
+    "wof:lastmodified":1537665742,
+    "wof:name":"Capitol Hill Village",
+    "wof:parent_id":85674803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.75313,
+    15.20825,
+    145.75313,
+    15.20825
+],
+  "geometry": {"coordinates":[145.75313,15.20825],"type":"Point"}
+}

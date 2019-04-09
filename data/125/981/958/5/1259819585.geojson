@@ -1,0 +1,72 @@
+{
+  "id": 1259819585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.7376,15.15165,145.7376,15.15165",
+    "geom:latitude":15.15165,
+    "geom:longitude":145.7376,
+    "gn:admin1_code":"110",
+    "gn:asciiname":"San Vicente Village",
+    "gn:country_code":"MP",
+    "gn:dem":90,
+    "gn:elevation":"80.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":4041561,
+    "gn:latitude":15.15165,
+    "gn:longitude":145.7376,
+    "gn:modification_date":"2011-05-23",
+    "gn:name":"San Vicente Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Saipan",
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Tuturam Village"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674803,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":4041561
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"b2d6cfb9464aeb2865e73caffb635552",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":1259819585,
+            "region_id":85674803
+        }
+    ],
+    "wof:id":1259819585,
+    "wof:lastmodified":1537665742,
+    "wof:name":"San Vicente Village",
+    "wof:parent_id":85674803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.7376,
+    15.15165,
+    145.7376,
+    15.15165
+],
+  "geometry": {"coordinates":[145.73759999999999,15.15165],"type":"Point"}
+}

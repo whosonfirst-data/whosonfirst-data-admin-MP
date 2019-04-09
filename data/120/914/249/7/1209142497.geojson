@@ -1,0 +1,63 @@
+{
+  "id": 1209142497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.77046,16.70999,145.77046,16.70999",
+    "geom:latitude":16.70999,
+    "geom:longitude":145.77046,
+    "gn:admin1_code":"085",
+    "gn:admin2_code":"7733409.0",
+    "gn:asciiname":"Copra Workers Settlement pre-WW2",
+    "gn:country_code":"MP",
+    "gn:dem":58,
+    "gn:elevation":"20.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLQ",
+    "gn:geonameid":7778991,
+    "gn:latitude":16.70999,
+    "gn:longitude":145.77046,
+    "gn:modification_date":"2011-05-04",
+    "gn:name":"Copra Workers Settlement pre-WW2",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Saipan",
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7778991
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"0dc29700b0777a4e7c22e932c92bbbc5",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632421,
+            "locality_id":1209142497
+        }
+    ],
+    "wof:id":1209142497,
+    "wof:lastmodified":1536296459,
+    "wof:name":"Copra Workers Settlement pre-WW2",
+    "wof:parent_id":85632421,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.77046,
+    16.709989999999998,
+    145.77046,
+    16.709989999999998
+],
+  "geometry": {"coordinates":[145.77046000000001,16.70999],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 1293622859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"145.70258,15.15634,145.70258,15.15634",
+    "geom:latitude":15.15634,
+    "geom:longitude":145.70258,
+    "gn:admin1_code":"110",
+    "gn:asciiname":"Susupe Village",
+    "gn:country_code":"MP",
+    "gn:dem":8,
+    "gn:elevation":"5.0",
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":7267956,
+    "gn:latitude":15.15634,
+    "gn:longitude":145.70258,
+    "gn:modification_date":"2011-05-22",
+    "gn:name":"Susupe Village",
+    "gn:population":0,
+    "gn:timezone":"Pacific/Saipan",
+    "iso:country":"MP",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Susupe CDP"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632421,
+        85674803,
+        102191583,
+        136253057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":7267956
+    },
+    "wof:country":"MP",
+    "wof:geomhash":"a97b2f30c7cb833b300e1338888d5c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":-1,
+            "dependency_id":85632421,
+            "empire_id":136253057,
+            "locality_id":1293622859,
+            "region_id":85674803
+        }
+    ],
+    "wof:id":1293622859,
+    "wof:lastmodified":1537665742,
+    "wof:name":"Susupe Village",
+    "wof:parent_id":85674803,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-mp",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    145.70258,
+    15.15634,
+    145.70258,
+    15.15634
+],
+  "geometry": {"coordinates":[145.70258000000001,15.15634],"type":"Point"}
+}
