@@ -15,6 +15,12 @@
     "iso:country":"MP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:jpn_x_preferred":[
+        "\u5317\u30de\u30ea\u30a2\u30ca\u8af8\u5cf6\u306e\u90fd\u5e02\u306e\u4e00\u89a7"
+    ],
+    "name:pol_x_preferred":[
+        "Miasta Marian\u00f3w P\u00f3\u0142nocnych"
+    ],
     "qs:name":"Agrihan Village",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":890447899,
-    "wof:lastmodified":1527727113,
+    "wof:lastmodified":1563290312,
     "wof:name":"Agrihan Village",
     "wof:parent_id":85674809,
     "wof:placetype":"locality",

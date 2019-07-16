@@ -31,6 +31,9 @@
     "name:ara_x_preferred":[
         "\u0633\u0627\u064a\u0628\u0627\u0646"
     ],
+    "name:ast_x_preferred":[
+        "Saip\u00e1n"
+    ],
     "name:aze_x_preferred":[
         "Saypan"
     ],
@@ -49,7 +52,13 @@
     "name:cat_x_preferred":[
         "Saipan"
     ],
+    "name:ceb_x_preferred":[
+        "Saipan Island"
+    ],
     "name:ces_x_preferred":[
+        "Saipan"
+    ],
+    "name:dan_x_preferred":[
         "Saipan"
     ],
     "name:deu_x_preferred":[
@@ -91,6 +100,9 @@
     "name:heb_x_preferred":[
         "\u05e1\u05d0\u05d9\u05e4\u05d0\u05df"
     ],
+    "name:hin_x_preferred":[
+        "\u0938\u093e\u0907\u092a\u0948\u0928"
+    ],
     "name:hrv_x_preferred":[
         "Saipan"
     ],
@@ -113,10 +125,20 @@
         "\uc0ac\uc774\ud310 \uc12c"
     ],
     "name:kor_x_variant":[
-        "\uc0ac\uc774\ud310"
+        "\uc0ac\uc774\ud310",
+        "\uc0ac\uc774\ud310\uc12c"
     ],
     "name:lit_x_preferred":[
         "Saipanas"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0421\u0430\u0458\u043f\u0430\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Saipan"
+    ],
+    "name:nan_x_preferred":[
+        "Saipan"
     ],
     "name:nld_x_preferred":[
         "Saipan"
@@ -124,7 +146,13 @@
     "name:nno_x_preferred":[
         "Saipan"
     ],
+    "name:nob_x_preferred":[
+        "Saipan"
+    ],
     "name:nor_x_preferred":[
+        "Saipan"
+    ],
+    "name:oci_x_preferred":[
         "Saipan"
     ],
     "name:pol_x_preferred":[
@@ -177,6 +205,12 @@
     ],
     "name:war_x_preferred":[
         "Saipan"
+    ],
+    "name:wuu_x_preferred":[
+        "\u585e\u73ed\u5c9b"
+    ],
+    "name:yue_x_preferred":[
+        "\u585e\u73ed"
     ],
     "name:zho_x_preferred":[
         "\u585e\u73ed\u5c9b"
@@ -304,7 +338,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550445,
+    "wof:lastmodified":1563290308,
     "wof:name":"Saipan",
     "wof:parent_id":85632421,
     "wof:placetype":"region",

@@ -34,6 +34,9 @@
     "name:pol_x_preferred":[
         "Port lotniczy Rota"
     ],
+    "name:ron_x_preferred":[
+        "Aeroportul Interna\u021bional Rota"
+    ],
     "name:rus_x_preferred":[
         "\u0420\u043e\u0442\u0430"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:swe_x_preferred":[
         "Rota International Airport"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0442\u0430"
     ],
     "name:vie_x_preferred":[
         "S\u00e2n bay Qu\u1ed1c t\u1ebf Rota"
@@ -87,7 +93,7 @@
         }
     ],
     "wof:id":102536005,
-    "wof:lastmodified":1561844788,
+    "wof:lastmodified":1563290306,
     "wof:name":"Rota International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
