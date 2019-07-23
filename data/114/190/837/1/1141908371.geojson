@@ -29,6 +29,9 @@
     "name:ind_x_preferred":[
         "Capitol Hill"
     ],
+    "name:ita_x_preferred":[
+        "Campidoglio"
+    ],
     "name:jpn_x_preferred":[
         "\u30ad\u30e3\u30d4\u30c8\u30eb\u30fb\u30d2\u30eb"
     ],
@@ -49,6 +52,9 @@
     ],
     "name:sco_x_preferred":[
         "Capitol Hill"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5361\u76ae\u6258\u5c14\u5e0c\u5c14"
     ],
     "name:zho_x_preferred":[
         "\u5361\u76ae\u6258\u5c14\u5e0c\u5c14"
@@ -173,7 +179,7 @@
         }
     ],
     "wof:id":1141908371,
-    "wof:lastmodified":1561844788,
+    "wof:lastmodified":1563290316,
     "wof:name":"Capitol Hill",
     "wof:parent_id":85674803,
     "wof:placetype":"locality",
