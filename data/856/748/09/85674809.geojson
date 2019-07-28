@@ -25,7 +25,16 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
+    "name:ceb_x_preferred":[
+        "Northern Islands"
+    ],
     "name:eng_x_preferred":[
+        "Northern Islands"
+    ],
+    "name:jpn_x_preferred":[
+        "\u5317\u90e8\u8af8\u5cf6"
+    ],
+    "name:swe_x_preferred":[
         "Northern Islands"
     ],
     "ne:abbrev":"",
@@ -148,7 +157,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553550445,
+    "wof:lastmodified":1564329716,
     "wof:name":"Northern Islands",
     "wof:parent_id":85632421,
     "wof:placetype":"region",
