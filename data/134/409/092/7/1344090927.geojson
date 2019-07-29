@@ -26,6 +26,21 @@
     "iso:country":"MP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:cha_x_preferred":[
+        "Songsong"
+    ],
+    "name:est_x_preferred":[
+        "Songsong"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bd\u30f3\u30bd\u30f3"
+    ],
+    "name:pol_x_preferred":[
+        "Songsong"
+    ],
+    "name:spa_x_preferred":[
+        "Songsong"
+    ],
     "name:und_x_variant":[
         "Sonsonhiya",
         "Rota",
@@ -62,7 +77,7 @@
         }
     ],
     "wof:id":1344090927,
-    "wof:lastmodified":1537665742,
+    "wof:lastmodified":1564329715,
     "wof:name":"Songsong",
     "wof:parent_id":85674797,
     "wof:placetype":"locality",

@@ -26,6 +26,9 @@
     "iso:country":"MP",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "San Jose Village"
+    ],
     "name:deu_x_preferred":[
         "San Jose"
     ],
@@ -35,8 +38,17 @@
     "name:fra_x_preferred":[
         "San Jose"
     ],
+    "name:pol_x_preferred":[
+        "San Jose"
+    ],
     "name:rus_x_preferred":[
         "\u0421\u0430\u043d \u0425\u043e\u0441\u0435"
+    ],
+    "name:spa_x_preferred":[
+        "San Jos\u00e9"
+    ],
+    "name:swe_x_preferred":[
+        "San Jose Village"
     ],
     "name:und_x_variant":[
         "San Jose CDP"
@@ -67,7 +79,7 @@
         }
     ],
     "wof:id":1343497939,
-    "wof:lastmodified":1537665742,
+    "wof:lastmodified":1564329715,
     "wof:name":"San Jose Village",
     "wof:parent_id":85674801,
     "wof:placetype":"locality",
