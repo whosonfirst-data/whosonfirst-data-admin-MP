@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SA"
+    ],
     "lbl:latitude":15.188188,
     "lbl:longitude":145.734397,
     "mps:latitude":15.188188,
@@ -329,16 +332,13 @@
         }
     ],
     "wof:id":85674803,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563290308,
+    "wof:lastmodified":1565728060,
     "wof:name":"Saipan",
     "wof:parent_id":85632421,
     "wof:placetype":"region",

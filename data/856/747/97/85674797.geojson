@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "RO"
+    ],
     "lbl:latitude":14.146969,
     "lbl:longitude":145.210162,
     "mps:latitude":14.146969,
@@ -216,16 +219,13 @@
         }
     ],
     "wof:id":85674797,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564329716,
+    "wof:lastmodified":1565728060,
     "wof:name":"Rota",
     "wof:parent_id":85632421,
     "wof:placetype":"region",

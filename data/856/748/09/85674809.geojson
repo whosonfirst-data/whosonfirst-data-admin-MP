@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "NI"
+    ],
     "lbl:latitude":18.139002,
     "lbl:longitude":145.789506,
     "mps:latitude":18.139002,
@@ -148,16 +151,13 @@
         }
     ],
     "wof:id":85674809,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1564329716,
+    "wof:lastmodified":1565728060,
     "wof:name":"Northern Islands",
     "wof:parent_id":85632421,
     "wof:placetype":"region",
