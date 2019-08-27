@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Saipan",
     "iso:country":"MP",
+    "lbl:bbox":"145.12111,14.11972,145.16111,14.15972",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cha_x_preferred":[
         "Songsong"
     ],
@@ -77,7 +81,7 @@
         }
     ],
     "wof:id":1344090927,
-    "wof:lastmodified":1564329715,
+    "wof:lastmodified":1566611806,
     "wof:name":"Songsong",
     "wof:parent_id":85674797,
     "wof:placetype":"locality",

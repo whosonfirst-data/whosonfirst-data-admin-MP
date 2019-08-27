@@ -11,11 +11,15 @@
     "geom:longitude":145.62437,
     "gn:country":"MP",
     "gn:fcode":"PPLW",
-    "gn:pop":15000,
+    "gn:population":15000,
     "iso:country":"MP",
+    "lbl:bbox":"145.60437,14.94874,145.64437,14.98874",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":10.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
-    "name:unk_x_variant":[
+    "mz:min_zoom":10.0,
+    "name:und_x_variant":[
         "Songhalum"
     ],
     "qs:name":"JP Tinian Town pre-WW2",
@@ -32,7 +36,7 @@
     "wof:concordances":{
         "gn:id":4041558,
         "gp:id":29389667,
-        "qs:id":1047738
+        "qs_pg:id":1047738
     },
     "wof:country":"MP",
     "wof:created":1469052091,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":890436025,
-    "wof:lastmodified":1509998378,
+    "wof:lastmodified":1566611810,
     "wof:name":"JP Tinian Town pre-WW2",
     "wof:parent_id":85674801,
     "wof:placetype":"locality",

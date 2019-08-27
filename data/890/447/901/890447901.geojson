@@ -11,10 +11,14 @@
     "geom:longitude":145.82147,
     "gn:country":"MP",
     "gn:fcode":"PPL",
-    "gn:pop":15,
+    "gn:population":15,
     "iso:country":"MP",
+    "lbl:bbox":"145.80147,17.59252,145.84147,17.63252",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ces_x_preferred":[
         "Alamagan"
     ],
@@ -81,7 +85,7 @@
     "name:swe_x_preferred":[
         "Alamagan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Patida Camp"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7778853,
-        "qs:id":699557,
+        "qs_pg:id":699557,
         "wd:id":"Q478663",
         "wk:page":"Alamagan"
     },
@@ -116,7 +120,7 @@
         }
     ],
     "wof:id":890447901,
-    "wof:lastmodified":1563290311,
+    "wof:lastmodified":1566611810,
     "wof:name":"Alamagan Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

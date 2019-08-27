@@ -11,11 +11,14 @@
     "geom:longitude":145.7585,
     "gn:country":"MP",
     "gn:fcode":"RGN",
-    "gn:pop":53883,
+    "gn:population":53883,
     "iso:country":"MP",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":9.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":8.0,
     "qs:name":"Micronesia - Northern Mariana Islands",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -31,7 +34,7 @@
     "wof:concordances":{
         "gn:id":7733074,
         "gp:id":29389666,
-        "qs:id":698166
+        "qs_pg:id":698166
     },
     "wof:country":"MP",
     "wof:created":1469052574,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":890446975,
-    "wof:lastmodified":1507590240,
+    "wof:lastmodified":1566611810,
     "wof:name":"Micronesia - Northern Mariana Islands",
     "wof:parent_id":85674803,
     "wof:placetype":"locality",

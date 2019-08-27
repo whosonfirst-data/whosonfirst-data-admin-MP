@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Saipan",
     "iso:country":"MP",
+    "lbl:bbox":"145.68228,15.10382,145.72228,15.14382",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632421,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":1343697969,
-    "wof:lastmodified":1536901010,
+    "wof:lastmodified":1566611807,
     "wof:name":"Koblerville Village",
     "wof:parent_id":85674803,
     "wof:placetype":"locality",

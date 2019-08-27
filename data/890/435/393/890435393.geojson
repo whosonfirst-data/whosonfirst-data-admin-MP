@@ -11,11 +11,14 @@
     "geom:longitude":145.7015,
     "gn:country":"MP",
     "gn:fcode":"ISL",
-    "gn:pop":48220,
+    "gn:population":48220,
     "iso:country":"MP",
+    "lbl:max_zoom":14.0,
+    "lbl:min_zoom":10.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":9.0,
     "name:cal_x_preferred":[
         "Seipel"
     ],
@@ -49,7 +52,7 @@
     "name:swe_x_preferred":[
         "Saipan"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "TEARAWAY WW2"
     ],
     "name:zho_x_preferred":[
@@ -70,7 +73,7 @@
     "wof:concordances":{
         "gn:id":4041550,
         "gp:id":12523226,
-        "qs:id":586223
+        "qs_pg:id":586223
     },
     "wof:country":"MP",
     "wof:created":1469052066,
@@ -86,7 +89,7 @@
         }
     ],
     "wof:id":890435393,
-    "wof:lastmodified":1507590240,
+    "wof:lastmodified":1566611811,
     "wof:name":"Saipan Island",
     "wof:parent_id":85674803,
     "wof:placetype":"locality",
