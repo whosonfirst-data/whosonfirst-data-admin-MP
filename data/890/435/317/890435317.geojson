@@ -11,11 +11,14 @@
     "geom:longitude":145.202,
     "gn:country":"MP",
     "gn:fcode":"ISL",
-    "gn:pop":2527,
+    "gn:population":2527,
     "iso:country":"MP",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "name:bel_x_preferred":[
         "\u0412\u043e\u0441\u0442\u0440\u0430\u045e \u0420\u043e\u0442\u0430"
     ],
@@ -112,7 +115,7 @@
     "name:swe_x_preferred":[
         "Rota"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "STIMULATE WW2"
     ],
     "name:urd_x_preferred":[
@@ -141,7 +144,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":4041523,
-        "qs:id":586221,
+        "qs_pg:id":586221,
         "wd:id":"Q949090",
         "wk:page":"Rota (island)"
     },
@@ -159,7 +162,7 @@
         }
     ],
     "wof:id":890435317,
-    "wof:lastmodified":1563290314,
+    "wof:lastmodified":1566611811,
     "wof:name":"Rota Island",
     "wof:parent_id":85674797,
     "wof:placetype":"locality",

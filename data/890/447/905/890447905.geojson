@@ -11,11 +11,14 @@
     "geom:longitude":145.561,
     "gn:country":"MP",
     "gn:fcode":"HSTS",
-    "gn:pop":67,
+    "gn:population":67,
     "iso:country":"MP",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"JP Army Garrison WW2",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7779054,
-        "qs:id":699561
+        "qs_pg:id":699561
     },
     "wof:country":"MP",
     "wof:created":1469052609,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":890447905,
-    "wof:lastmodified":1507590240,
+    "wof:lastmodified":1566611810,
     "wof:name":"JP Army Garrison WW2",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

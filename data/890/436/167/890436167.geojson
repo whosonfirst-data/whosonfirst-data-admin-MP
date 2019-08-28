@@ -11,11 +11,14 @@
     "geom:longitude":145.205,
     "gn:country":"MP",
     "gn:fcode":"HSTS",
-    "gn:pop":4772,
+    "gn:population":4772,
     "iso:country":"MP",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:is_funky":1,
+    "mz:min_zoom":11.0,
     "qs:name":"JP Phospahate and Sugar Production",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +32,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":7779075,
-        "qs:id":699564
+        "qs_pg:id":699564
     },
     "wof:country":"MP",
     "wof:created":1469052095,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":890436167,
-    "wof:lastmodified":1509998378,
+    "wof:lastmodified":1566611810,
     "wof:name":"JP Phospahate and Sugar Production",
     "wof:parent_id":85674797,
     "wof:placetype":"locality",

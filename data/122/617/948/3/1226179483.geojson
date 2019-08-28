@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Saipan",
     "iso:country":"MP",
+    "lbl:bbox":"145.75553,15.22889,145.79553,15.26889",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Matansa",
         "Makunsha"
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1226179483,
-    "wof:lastmodified":1537665741,
+    "wof:lastmodified":1566611811,
     "wof:name":"San Roque Village",
     "wof:parent_id":85674803,
     "wof:placetype":"locality",

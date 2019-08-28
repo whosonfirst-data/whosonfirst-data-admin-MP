@@ -12,6 +12,7 @@
     "iso:country":"MP",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":13.0,
     "name:deu_x_preferred":[
         "Flughafen Saipan"
     ],
@@ -116,7 +117,7 @@
         }
     ],
     "wof:id":102536007,
-    "wof:lastmodified":1563290305,
+    "wof:lastmodified":1566611806,
     "wof:name":"Saipan International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",

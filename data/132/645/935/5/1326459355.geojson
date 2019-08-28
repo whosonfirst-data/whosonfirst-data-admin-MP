@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"Pacific/Saipan",
     "iso:country":"MP",
+    "lbl:bbox":"145.69682,15.17415,145.73682,15.21415",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Gualo Rai CDP"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1326459355,
-    "wof:lastmodified":1537665742,
+    "wof:lastmodified":1566611806,
     "wof:name":"Gualo Rai Village",
     "wof:parent_id":85674803,
     "wof:placetype":"locality",
