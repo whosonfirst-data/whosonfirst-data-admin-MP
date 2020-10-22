@@ -9,7 +9,6 @@
     "geom:bbox":"144.902110222,16.3391787787,145.868907097,20.5554059925",
     "geom:latitude":18.225425,
     "geom:longitude":145.666131,
-    "gn:id":"",
     "iso:country":"MP",
     "label:eng_x_preferred_longname":[
         "Northern Islands Municipality"
@@ -157,7 +156,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566611808,
+    "wof:lastmodified":1603263332,
     "wof:name":"Northern Islands",
     "wof:parent_id":85632421,
     "wof:placetype":"region",

@@ -9,7 +9,6 @@
     "geom:bbox":"145.682139519,15.096014716,145.823741082,15.2721621768",
     "geom:latitude":15.183667,
     "geom:longitude":145.741369,
-    "gn:id":"",
     "iso:country":"MP",
     "label:eng_x_preferred_longname":[
         "Saipan Municipality"
@@ -339,7 +338,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566611807,
+    "wof:lastmodified":1603263332,
     "wof:name":"Saipan",
     "wof:parent_id":85632421,
     "wof:placetype":"region",

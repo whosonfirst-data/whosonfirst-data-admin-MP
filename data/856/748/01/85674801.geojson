@@ -9,7 +9,6 @@
     "geom:bbox":"145.57715905,14.9152692734,145.667816602,15.0820987002",
     "geom:latitude":14.99808,
     "geom:longitude":145.624071,
-    "gn:id":"",
     "iso:country":"MP",
     "label:eng_x_preferred_longname":[
         "Tinian Municipality"
@@ -275,7 +274,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566611808,
+    "wof:lastmodified":1603263332,
     "wof:name":"Tinian",
     "wof:parent_id":85632421,
     "wof:placetype":"region",
