@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009241,
-    "geom:area_square_m":110368184.944481,
+    "geom:area_square_m":110368594.129044,
     "geom:bbox":"145.577159,14.915269,145.667817,15.082099",
     "geom:latitude":14.99808,
     "geom:longitude":145.624071,
@@ -267,10 +267,11 @@
         "gp:id":29389659,
         "hasc:id":"MP.TI",
         "qs_pg:id":1310957,
+        "uscensus:geoid":"120",
         "wd:id":"Q325652"
     },
     "wof:country":"MP",
-    "wof:geomhash":"e601bc1bf06d1a28cdfe58a55d12549a",
+    "wof:geomhash":"410c59bddbad9a67bfe5bfaf4fddeef5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -287,7 +288,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636504674,
+    "wof:lastmodified":1684392466,
     "wof:name":"Tinian",
     "wof:parent_id":85632421,
     "wof:placetype":"region",

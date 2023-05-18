@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00812,
-    "geom:area_square_m":97349652.509699,
+    "geom:area_square_m":97350452.878163,
     "geom:bbox":"145.119314,14.110663,145.290538,14.202786",
     "geom:latitude":14.155973,
     "geom:longitude":145.211459,
@@ -224,10 +224,11 @@
         "gn:id":4041530,
         "gp:id":29389660,
         "hasc:id":"MP.RO",
-        "qs_pg:id":386004
+        "qs_pg:id":386004,
+        "uscensus:geoid":"100"
     },
     "wof:country":"MP",
-    "wof:geomhash":"22d04874c058273536bfcb06f36b3642",
+    "wof:geomhash":"6ac04c641824debeff2e510522fa9a88",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -244,7 +245,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636504674,
+    "wof:lastmodified":1684392466,
     "wof:name":"Rota",
     "wof:parent_id":85632421,
     "wof:placetype":"region",
