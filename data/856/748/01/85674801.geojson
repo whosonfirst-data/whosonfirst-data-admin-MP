@@ -267,7 +267,7 @@
         "gp:id":29389659,
         "hasc:id":"MP.TI",
         "qs_pg:id":1310957,
-        "uscensus:geoid":"120",
+        "uscensus:geoid":"69120",
         "wd:id":"Q325652"
     },
     "wof:country":"MP",
@@ -288,7 +288,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684392466,
+    "wof:lastmodified":1684434498,
     "wof:name":"Tinian",
     "wof:parent_id":85632421,
     "wof:placetype":"region",

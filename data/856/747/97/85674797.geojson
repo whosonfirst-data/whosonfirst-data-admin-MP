@@ -225,7 +225,7 @@
         "gp:id":29389660,
         "hasc:id":"MP.RO",
         "qs_pg:id":386004,
-        "uscensus:geoid":"100"
+        "uscensus:geoid":"69100"
     },
     "wof:country":"MP",
     "wof:geomhash":"6ac04c641824debeff2e510522fa9a88",
@@ -245,7 +245,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684392466,
+    "wof:lastmodified":1684434498,
     "wof:name":"Rota",
     "wof:parent_id":85632421,
     "wof:placetype":"region",
