@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.020497,
-    "geom:area_square_m":240693223.233341,
+    "geom:area_square_m":240693772.502297,
     "geom:bbox":"144.90211,16.339179,145.868907,20.555406",
     "geom:latitude":18.225426,
     "geom:longitude":145.666131,
@@ -114,8 +114,8 @@
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"statoids",
-    "src:population_date":"2010-04-01",
+    "src:population":"uscensus",
+    "src:population_date":"2020",
     "statoids:area_km":"171",
     "statoids:area_mi":"60",
     "statoids:as_of_date":"2010-04-01",
@@ -128,6 +128,8 @@
     "statoids:population":"0",
     "statoids:timezone":"+10",
     "statoids:type":"municipality",
+    "uscensus:population":7,
+    "uscensus:population_year":2020,
     "wd:wordcount":45,
     "wof:belongsto":[
         102191583,
@@ -140,10 +142,11 @@
         "gn:id":7733156,
         "gp:id":29389661,
         "hasc:id":"MP.NI",
-        "qs_pg:id":43518
+        "qs_pg:id":43518,
+        "uscensus:geoid":"69085"
     },
     "wof:country":"MP",
-    "wof:geomhash":"e38956370de6d585243674dbb23d6573",
+    "wof:geomhash":"698fc8b482338507a0539467413b2837",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -160,12 +163,13 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1627522381,
+    "wof:lastmodified":1684438875,
     "wof:name":"Northern Islands",
     "wof:parent_id":85632421,
     "wof:placetype":"region",
     "wof:placetype_local":"municipality",
-    "wof:population":0,
+    "wof:population":7,
+    "wof:population_rank":1,
     "wof:repo":"whosonfirst-data-admin-mp",
     "wof:shortcode":"NI",
     "wof:superseded_by":[],
