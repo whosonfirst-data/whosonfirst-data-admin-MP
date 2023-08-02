@@ -19,6 +19,15 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:min_zoom":11.0,
+    "name:arz_x_preferred":[
+        "\u062c\u0628\u0644 \u0627\u0644\u0627\u0645\u0627\u062c\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Alamagan"
+    ],
+    "name:cat_x_preferred":[
+        "Alamagan"
+    ],
     "name:ces_x_preferred":[
         "Alamagan"
     ],
@@ -52,6 +61,9 @@
     "name:hye_x_preferred":[
         "\u0531\u056c\u0561\u0574\u0561\u0563\u0561\u0576"
     ],
+    "name:ind_x_preferred":[
+        "Alamagan"
+    ],
     "name:ita_x_preferred":[
         "Alamagan"
     ],
@@ -60,6 +72,9 @@
     ],
     "name:kat_x_preferred":[
         "\u10d0\u10da\u10d0\u10db\u10d0\u10d2\u10d0\u10dc\u10d8"
+    ],
+    "name:lld_x_preferred":[
+        "Alamagan"
     ],
     "name:msa_x_preferred":[
         "Gunung Berapi Alamagan"
@@ -91,6 +106,9 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u0627\u0645\u0627\u06af\u0627\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Alamagan"
+    ],
     "name:zho_x_preferred":[
         "\u963f\u62c9\u6728\u6839"
     ],
@@ -120,7 +138,7 @@
         }
     ],
     "wof:id":890447901,
-    "wof:lastmodified":1566611810,
+    "wof:lastmodified":1690939774,
     "wof:name":"Alamagan Village",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

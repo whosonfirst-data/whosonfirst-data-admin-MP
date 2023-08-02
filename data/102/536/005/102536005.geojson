@@ -32,6 +32,9 @@
     "name:kor_x_preferred":[
         "\ub85c\ud0c0 \uad6d\uc81c\uacf5\ud56d"
     ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Rota"
+    ],
     "name:pol_x_preferred":[
         "Port lotniczy Rota"
     ],
@@ -94,7 +97,7 @@
         }
     ],
     "wof:id":102536005,
-    "wof:lastmodified":1566611806,
+    "wof:lastmodified":1690939773,
     "wof:name":"Rota International Airport",
     "wof:parent_id":-1,
     "wof:placetype":"campus",
