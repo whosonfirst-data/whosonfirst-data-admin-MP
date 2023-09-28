@@ -26,7 +26,7 @@
     "mps:latitude":14.99353,
     "mps:longitude":145.623208,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
@@ -290,8 +290,9 @@
         "uscensus:geoid":"69120",
         "wd:id":"Q325652"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"MP",
-    "wof:geomhash":"e601bc1bf06d1a28cdfe58a55d12549a",
+    "wof:geomhash":"410c59bddbad9a67bfe5bfaf4fddeef5",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -308,7 +309,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690939774,
+    "wof:lastmodified":1695884323,
     "wof:name":"Tinian",
     "wof:parent_id":85632421,
     "wof:placetype":"region",
