@@ -381,8 +381,9 @@
         "uscensus:geoid":"69110",
         "wd:id":"Q51679"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"MP",
-    "wof:geomhash":"4e15b7877907d8e5b173ee283080bdbd",
+    "wof:geomhash":"6a4eb4e7163354137cb701052ea60d92",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -399,7 +400,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690939774,
+    "wof:lastmodified":1695885335,
     "wof:name":"Saipan",
     "wof:parent_id":85632421,
     "wof:placetype":"region",

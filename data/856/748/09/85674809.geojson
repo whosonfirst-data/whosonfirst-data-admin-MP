@@ -145,6 +145,7 @@
         "qs_pg:id":43518,
         "uscensus:geoid":"69085"
     },
+    "wof:concordances_official":"uscensus:geoid",
     "wof:country":"MP",
     "wof:geomhash":"698fc8b482338507a0539467413b2837",
     "wof:hierarchy":[
@@ -163,7 +164,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1684438875,
+    "wof:lastmodified":1695885335,
     "wof:name":"Northern Islands",
     "wof:parent_id":85632421,
     "wof:placetype":"region",
